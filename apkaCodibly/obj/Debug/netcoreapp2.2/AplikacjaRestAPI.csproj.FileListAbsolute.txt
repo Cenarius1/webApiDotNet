@@ -1,0 +1,28 @@
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.deps.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.runtimeconfig.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.runtimeconfig.dev.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.RazorAssemblyInfo.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.RazorAssemblyInfo.cs
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.AssemblyInfo.cs
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.pdb
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.deps.json
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.runtimeconfig.json
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.runtimeconfig.dev.json
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.dll
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.pdb
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.csprojResolveAssemblyReference.cache
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.csproj.CoreCompileInputs.cache
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.RazorAssemblyInfo.cache
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.RazorAssemblyInfo.cs
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.AssemblyInfoInputs.cache
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.AssemblyInfo.cs
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.dll
+D:\Projects\codiblyInit\webApiDotNet\apkaCodibly\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.pdb

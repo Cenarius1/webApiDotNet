@@ -1,0 +1,32 @@
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.deps.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.runtimeconfig.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.runtimeconfig.dev.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.AssemblyInfo.cs
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.pdb
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.deps.json
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.runtimeconfig.json
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.runtimeconfig.dev.json
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.dll
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.pdb
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.dll
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\bin\Debug\netcoreapp2.2\AplikacjaRestAPI.pdb
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.csprojResolveAssemblyReference.cache
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.csproj.CoreCompileInputs.cache
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.AssemblyInfoInputs.cache
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.AssemblyInfo.cs
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.dll
+D:\Projects\codiblyInit\webApiDotNet\AplikacjaRestAPI.Test\obj\Debug\netcoreapp2.2\AplikacjaRestAPI.Test.pdb

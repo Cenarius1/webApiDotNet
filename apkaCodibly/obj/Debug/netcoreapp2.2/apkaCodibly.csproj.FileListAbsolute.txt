@@ -1,0 +1,13 @@
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\apkaCodibly.deps.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\apkaCodibly.runtimeconfig.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\apkaCodibly.runtimeconfig.dev.json
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\apkaCodibly.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\bin\Debug\netcoreapp2.2\apkaCodibly.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.csproj.CoreCompileInputs.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.RazorAssemblyInfo.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.RazorAssemblyInfo.cs
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.AssemblyInfoInputs.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.AssemblyInfo.cs
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.RazorTargetAssemblyInfo.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\apkaCodibly\apkaCodibly\obj\Debug\netcoreapp2.2\apkaCodibly.pdb
